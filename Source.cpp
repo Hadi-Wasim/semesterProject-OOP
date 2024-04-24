@@ -1,6 +1,9 @@
 ﻿#include <SFML/Graphics.hpp>
 #include <ctime>
 //#include"../SFML/Images/"
+
+//ASDASDSASADASD
+//project setup by Hadi Wasim
 using namespace sf;
 using namespace std;
 
@@ -10,7 +13,9 @@ struct coordinats {
 	int y;
 };
 
-
+class hello {
+	int games;
+};
 
 //Drawing the background
 void createBack(RenderWindow& window) {
