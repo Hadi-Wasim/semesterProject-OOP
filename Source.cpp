@@ -2,7 +2,6 @@
 #include <ctime>
 //#include"../SFML/Images/"
 
-//ASDASDSASADASD
 //project setup by Hadi Wasim
 using namespace sf;
 using namespace std;
